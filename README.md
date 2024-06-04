@@ -10,4 +10,6 @@ Mouse clicker with custom interval in pwsh and C#.
 1. Load the project solution (.sln) file and customise/build/publish.
 2. You can make a nice UI.
 # Preview
-<img width="132" alt="klik" src="https://github.com/msaifuddin/klik/assets/1064775/6ab2d235-3ad5-45bd-a61d-3304ba86439b">
+| C# version | pwsh version |
+|----|------------|
+| <img width="132" alt="klik" src="https://github.com/msaifuddin/klik/assets/1064775/6ab2d235-3ad5-45bd-a61d-3304ba86439b"> | <img width="132" alt="image" src="https://github.com/msaifuddin/klik/assets/1064775/2540386f-b065-45d0-9bc5-f6a87b875c8c"> |
