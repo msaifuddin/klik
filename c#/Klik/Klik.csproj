@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
 		<OutputType>WinExe</OutputType>
@@ -12,7 +12,8 @@
 		<SelfContained>false</SelfContained>
 		<DebugType>none</DebugType>
 		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-		<!-- Add this line -->
+		<NoWarn>$(NoWarn);CA1416</NoWarn>
+		<!-- Suppress CA1416 warnings -->
 	</PropertyGroup>
 
 </Project>
